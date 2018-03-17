@@ -2,11 +2,11 @@
 Ocono FE Challenge
 
 ## Github Path
-https://github.com/YASIRKAMDAR/jin_ocn_chlng 
+[https://github.com/YASIRKAMDAR/jin_ocn_chlng](https://github.com/YASIRKAMDAR/jin_ocn_chlng) 
 
 ## Hiroku app links: 
-https://jinocnchlng.herokuapp.com/contin
-https://jinocnchlng.herokuapp.com/contout
+[https://jinocnchlng.herokuapp.com/contin](https://jinocnchlng.herokuapp.com/contin)
+[https://jinocnchlng.herokuapp.com/contout](https://jinocnchlng.herokuapp.com/contout)
 
 ### Application details
 The application is created using react/redux client side usng the create react app bouled plate.
@@ -32,7 +32,7 @@ components (LOC). --> Done
 2) run app
 ` npm start `
 3) Use the url following url to run the application
-` http://localhost:3000/ `
+[http://localhost:3000/](http://localhost:3000/)
 
 ## Run test application
 1) Open a command console to the root directory
