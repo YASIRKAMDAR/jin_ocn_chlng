@@ -35,6 +35,7 @@ components (LOC). --> Done
 2) run app
 
 ` npm start `
+
 3) Use the url following url to run the application
 
 [http://localhost:3000/](http://localhost:3000/)
