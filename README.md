@@ -11,7 +11,7 @@ Ocono FE Challenge
 [https://jinocnchlng.herokuapp.com/contout](https://jinocnchlng.herokuapp.com/contout)
 
 ### Application details
-The application is created using react/redux client side usng the create react app bouled plate.
+The application is created using react/redux client side usng the create react app boiled plate.
 
 ### Assignment status
 Assignment task breakup status is as follows:
@@ -27,11 +27,13 @@ components (LOC). --> Done
 ## dev Setup 
 1) Clone the application source code
 2) install dependencies
+
 ` npm install `
 
 ## Run dev application
 1) Open a command console to the root directory
 2) run app
+
 ` npm start `
 3) Use the url following url to run the application
 
@@ -40,4 +42,5 @@ components (LOC). --> Done
 ## Run test application
 1) Open a command console to the root directory
 2) test app
+
 ` npm test `
