@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    grid-auto-flow: row;
+    align-items: center;
+}
+.onebythree {
+    grid-column: 2 / 3;
+    grid-row: 1;
+    display: flex;
+    justify-self: left;
+}
+.twobythree {
+    grid-column: 2 / 3;
+    grid-row: 2;
+    display: flex;
+    justify-self: left;
+}
+.threebythree {
+    grid-column: 2 / 3;
+    grid-row: 3;
+    display: flex;
+    justify-self: left;
+}
+
+.onebythree textarea, .twobythree select {
+    margin-left: 10px; 
+}
+
+.table {
+    grid-column: 2 / 3;
+    grid-row: 1;
+    display: flex;
+    justify-self: center;
+}
+.paging {
+    grid-column: 2 / 3;
+    grid-row: 2;
+    display: flex;
+    justify-self: center;
+}
+
+
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
